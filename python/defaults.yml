@@ -1,0 +1,7 @@
+# vim: ft=yaml
+# Defaults for python
+
+python:
+  enabled: false
+  version: 2
+  from_pkgs: true
